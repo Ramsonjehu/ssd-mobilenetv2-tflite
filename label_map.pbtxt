@@ -1,0 +1,19 @@
+item {
+    id: 3
+    name: 'bus'
+}
+
+item {
+    id: 4
+    name: 'car'
+}
+
+item {
+    id: 12
+    name: 'others'
+}
+
+item {
+    id: 17
+    name: 'van'
+}
